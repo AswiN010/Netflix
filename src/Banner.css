@@ -1,0 +1,12 @@
+.banner{
+    height: 550px;
+}
+.bannerContent{
+    padding-top: 300px;
+    padding-right: 150px;
+    margin-left: 30px;
+}
+.title{
+    font-size: 40px;
+    font-style: uppercase;
+}
